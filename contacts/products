@@ -1,0 +1,532 @@
+{
+  "hits": [
+  {
+      "name": "Kashi toranj",
+      "categories": {
+        "level0": [
+          "Tiles",
+          "Bathroom Tiles",
+          "Kitchen Tiles",
+          "White tiles",
+          "Wall Tiles",
+          "Samples Category",
+          "New Arrivals",
+          "White Ceramic Tiles",
+          "White Bathroom Wall Tiles",
+          "White Kitchen Wall Tiles",
+          "Order Tile Samples",
+          "Tiles For Other Rooms",
+          "Tiles By Colours",
+          "Ceramic Bathroom Tiles",
+          "Anthracite Tiles",
+          "Exterior Tiles"
+        ],
+        "level1": [
+          "Bathroom Tiles /// White Wall Tiles",
+          "Kitchen Tiles /// White",
+          "Wall Tiles /// White",
+          "Wall Tiles /// Wall Tiles By Colour",
+          "Wall Tiles /// Large Wall Tiles",
+          "Bathroom Tiles /// Large Bathroom Tiles",
+          "Wall Tiles /// Value Wall Tiles",
+          "Tiles For Other Rooms /// Hallway Tiles",
+          "Tiles For Other Rooms /// Living Room Tiles",
+          "Tiles By Colours /// White Tiles",
+          "Bathroom Tiles /// Value Bathroom Tiles",
+          "Bathroom Tiles /// Bathroom Wall Tiles",
+          "Kitchen Tiles /// Kitchen Wall Tiles",
+          "Bathroom Tiles /// Luxury Bathroom Tiles",
+          "Exterior Tiles /// Nexus"
+        ],
+        "level2": [
+          "Wall Tiles /// Wall Tiles By Colour /// White Wall Tiles",
+          "Bathroom Tiles /// Value Bathroom Tiles /// White Wall Tiles",
+          "Bathroom Tiles /// Bathroom Wall Tiles /// White",
+          "Kitchen Tiles /// Kitchen Wall Tiles /// White",
+          "Bathroom Tiles /// Luxury Bathroom Tiles /// White Wall Tiles"
+        ]
+      },
+      "cs_sample_price": "£0.99",
+      "cs_type": "Wall",
+      "sku": "430255",
+      "size": "250x600",
+      "samples_allowed": "Both",
+      "objectID": "3321",
+      "_highlightResult": {
+        "name": {
+          "value": "منم منم مادرتون",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Bathroom Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Kitchen Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "White tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Wall Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Samples Category",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "New Arrivals",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "White Ceramic Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "White Bathroom Wall Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "White Kitchen Wall Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Order Tile Samples",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Tiles For Other Rooms",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Tiles By Colours",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Ceramic Bathroom Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Anthracite Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Exterior Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Bathroom Tiles /// White Wall Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Kitchen Tiles /// White",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Wall Tiles /// White",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Wall Tiles /// Wall Tiles By Colour",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Wall Tiles /// Large Wall Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Bathroom Tiles /// Large Bathroom Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Wall Tiles /// Value Wall Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Tiles For Other Rooms /// Hallway Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Tiles For Other Rooms /// Living Room Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Tiles By Colours /// White Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Bathroom Tiles /// Value Bathroom Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Bathroom Tiles /// Bathroom Wall Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Kitchen Tiles /// Kitchen Wall Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Bathroom Tiles /// Luxury Bathroom Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Exterior Tiles /// Nexus",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Wall Tiles /// Wall Tiles By Colour /// White Wall Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Bathroom Tiles /// Value Bathroom Tiles /// White Wall Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Bathroom Tiles /// Bathroom Wall Tiles /// White",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Kitchen Tiles /// Kitchen Wall Tiles /// White",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Bathroom Tiles /// Luxury Bathroom Tiles /// White Wall Tiles",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "Tiles",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "White Wall Tiles",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "White",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "White tiles",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "White",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Samples Category",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "New Arrivals",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "White Wall Tiles",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Large Wall Tiles",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "White Ceramic Tiles",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Large Bathroom Tiles",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "White Bathroom Wall Tiles",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "White Kitchen Wall Tiles",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Order Tile Samples",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Value Wall Tiles",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Hallway Tiles",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Living Room Tiles",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "White Tiles",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "White Wall Tiles",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "White",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "White",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Ceramic Bathroom Tiles",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "White Wall Tiles",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Anthracite Tiles",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Nexus",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "cs_type": {
+          "value": "Wall",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "custom_thickness": {
+          "value": "8-10",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "short_description": {
+          "value": "<p dir=\"ltr\">Inject some aesthetic serenity into your interiors with the tranquil tones and textures of Linen, a sumptuous range of textured wall tiles that takes its design inspiration from deftly woven linens.</p>\r\n<p dir=\"ltr\"><strong>Key Features</strong></p>\r\n<ul>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\">Contemporary aesthetic</p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\">Matt finish</p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\">Slightly mottled surface texture</p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\">Durable ceramic construction</p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\">Designed for use with Micro Striped companion tile</p>\r\n</li>\r\n</ul>\r\n<p dir=\"ltr\">Equally as striking in both bathrooms and kitchens as they are in hallways, lounges and bedrooms, the understated calm hue of Linen is the perfect foil for bright, colourful tiles. Particularly apt at creating light and airy roomscapes, Linen instantly brings a serene, neutral aesthetic to any area in which it installed and can easily be combined with darker floor tile sto really create strong contrast. Constructed from durable ceramic and featuring a slightly textured matt surface design, Linen is not only functional but incredibly elegant too.</p>",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "sku": {
+          "value": "443045",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "custom_stock_status": {
+          "value": "In  Stock",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "filter_size": {
+          "value": "L",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "filter_material": {
+          "value": "Ceramic",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "finish": {
+          "value": "Matt",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "product_type": {
+          "value": "Tile",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "floor_or_wall": {
+          "value": "Wall",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "filter_colour": {
+          "value": "White",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "size": {
+          "value": "250x600",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "cut_sample_location": {
+          "value": "D1051",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "visualiser_enabled": {
+          "value": "Yes",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "samples_allowed": {
+          "value": "Both",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    }
+  ],
+  "nbHits": 565,
+  "page": 0,
+  "nbPages": 1,
+  "hitsPerPage": 1000,
+  "processingTimeMS": 184,
+  "facets": {
+    "finish": {
+      "Matt": 291,
+      "Gloss": 175,
+      "Polished": 55,
+      "Riven": 15,
+      "Satin": 15,
+      "Semi Polished": 12,
+      "Gloss/Matt": 2
+    },
+    "cs_type": {
+      "Both": 282,
+      "Wall": 191,
+      "Mosaic": 67,
+      "Floor": 25
+    },
+    "filter_size": {
+      "S": 142,
+      "M": 130,
+      "XL": 117,
+      "L": 106,
+      "XXL": 70
+    },
+    "filter_colour": {
+      "Grey": 186,
+      "Beige/Cream/Ivory": 113,
+      "White": 95,
+      "Black/Charcoal": 63,
+      "Brown": 51,
+      "Blue/Purple": 23,
+      "Red/Pink": 20,
+      "Green": 13,
+      "Orange": 1
+    },
+    "filter_material": {
+      "Porcelain": 290,
+      "Ceramic": 201,
+      "Glass": 49,
+      "Quartz": 17,
+      "Slate": 2,
+      "Stone": 2,
+      "Granite": 1,
+      "Marble": 1,
+      "Natural Clay": 1
+    },
+    "custom_thickness": {
+      "8-10": 281,
+      "6-8": 151,
+      "10-12": 95,
+      "other": 22,
+      "4-6": 14,
+      "2-4": 2
+    },
+    "special_features": {
+      "Feature Tiles": 80,
+      "Slip Resistant": 44,
+      "Outdoor": 40,
+      "Stone Effect": 38,
+      "Wood Effect": 29,
+      "Marble Effect": 23,
+      "Sparkle": 22,
+      "Cracked Glaze": 12,
+      "Metallic": 9,
+      "Hexagon": 5
+    },
+    "visualiser_enabled": {
+      "Yes": 565
+    }
+  },
+  "exhaustiveFacetsCount": true,
+  "exhaustiveNbHits": true,
+  "query": " ",
+  "params": "query=%20&attributesToRetrieve=%5B%22sku%22%2C%22size%22%2C%22name%22%2C%22categories%22%2C%22cs_sample_price%22%2C%22samples_allowed%22%2C%22cs_type%22%5D&hitsPerPage=2000&facetFilters=%5B%5B%22visualiser_enabled%3AYes%22%5D%5D&facets=%5B%22cs_type%22%2C%22filter_colour%22%2C%22finish%22%2C%22filter_material%22%2C%22filter_size%22%2C%22custom_thickness%22%2C%22special_features%22%2C%22visualiser_enabled%22%5D&restrictSearchableAttributes=%5B%22name%22%2C%22sku%22%2C%22filter_size%22%2C%22filter_material%22%2C%22filter_colour%22%2C%22finish%22%2C%22product_type%22%2C%22floor_or_wall%22%2C%22size%22%5D"
+}
